@@ -7,9 +7,9 @@ Build strong problem-solving skills for software placements.
 
 ## Progress
 
-- [ ] C++ Basics
-- [ ] STL
-- [ ] Time & Space Complexity
+- [X] C++ Basics
+- [X] STL
+- [X] Time & Space Complexity
 - [ ] Arrays
 - [ ] Strings
 - [ ] Sorting
