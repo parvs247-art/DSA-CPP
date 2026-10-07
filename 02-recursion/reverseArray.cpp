@@ -16,12 +16,12 @@ void reverse(int i, int r) {
 }
 
 // one pointer recursion approach
-// void rev(int i) {
+// void rev(int i , int arr[], int n) {
 //     if (i >= n / 2) {
 //         return;
 //     }
 //     swap(arr[i], arr[n - i - 1]);
-//     rev(i + 1);
+//     rev(i + 1, arr, n);
 // }
 
 int main() {
@@ -45,6 +45,6 @@ int main() {
     }
     cout << endl;
 
-    // rev(0);
+    // rev(0, arr, n);
     return 0;
 }
